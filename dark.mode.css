@@ -177,10 +177,10 @@
 /* button design*/
 .theme-dark .lookFilled-yCfaCM {
   border-radius: 45px;
-  background: rgb(255, 187, 0) !important;
+  background: rgb(240, 199, 193) !important;
   color: #000 !important;
   border: 2px solid goldenrod;
-  box-shadow: 0 0 6px 0 rgb(255 234 0 / 50%);
+  box-shadow: 0 0 0px 0 rgb(255 234 0 / 50%);
   font-family: "Roboto";
   font-size: 12px;
   transition: 0.2s;
